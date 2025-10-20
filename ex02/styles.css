@@ -1,0 +1,20 @@
+#par1 {
+    color: rgba(0, 0, 255, 0.938);
+    font-size: 36px;
+}
+
+#par2 {
+    background-color: rgba(2, 216, 2, 0.836);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.impar1 {
+    background-color: rgb(247, 76, 133);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.size {
+    font-size: 24px;
+}
+
